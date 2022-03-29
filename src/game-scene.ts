@@ -220,7 +220,7 @@ export class GameScene extends Phaser.Scene {
     for (const [index, word] of this.wordsGame.buttonWords.entries()) {
       const button = this.buttons[index];
       let buttonText = word.kanji;
-      if (this.showHint || !buttonText) {
+      if (!buttonText) {
         buttonText += '\n' + word.hiragana
       }
       button.setText(buttonText.trim());
