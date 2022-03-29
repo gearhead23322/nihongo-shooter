@@ -1,6 +1,6 @@
 ## Play now
 
-Play at https://hariigongurofu.github.io/nihongo-shooter/
+Play at https://gearhead23322.github.io/nihongo-shooter/
 
 ## Nihongo Shooter
 
